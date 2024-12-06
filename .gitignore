@@ -1,0 +1,4 @@
+venv/
+vault_data.enc
+__pycache__/
+
