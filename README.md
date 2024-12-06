@@ -4,10 +4,6 @@
 
 Welcome to **Password Vault**, a simple yet secure command-line password manager built in Python. This tool lets you store, retrieve, and update login credentials for various websites and services, all encrypted on disk. It’s perfect for programmers, hackers, and command-line enthusiasts who appreciate a clean, modern terminal aesthetic.
 
-![ASCII Banner Sample](docs/banner_example.png)
-
-*(The above is just a placeholder image if you ever want to add screenshots—feel free to remove if you don’t have a screenshot.)*
-
 ---
 
 ## Features
